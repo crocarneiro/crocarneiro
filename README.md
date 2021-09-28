@@ -1,8 +1,8 @@
 ### Hello 🙋🏾‍♂️
 
-- 🔭 Software developer at Focco.
-- 👨‍🏫 Programming logic teacher at Flexxo.
-- 🌱 I’m currently learning Functional Programming in Java,
+- 🔭 Full stack software engineer.
+- 👨‍🏫 I teach programming introduction at Flexxo.
+- 🌱 I’m currently learning Functional Programming, gRPC and Microservices in Java,
 - 📝 and doing some cool stuff for Google Docs with Apps Script.
 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos.carneiro.dev/)
