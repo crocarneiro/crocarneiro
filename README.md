@@ -1,6 +1,7 @@
 ### Hello 🙋🏾‍♂️
 
-- 🔭 Full stack software engineer.
+- 🔭 Backend software engineer at Tatic.
+- 🔭 Fullstack software engineer Freelancing.
 - 👨‍🏫 I teach programming introduction at Flexxo.
 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos.carneiro.dev/)
